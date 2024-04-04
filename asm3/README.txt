@@ -11,4 +11,4 @@ to run my program without the test script:
     2. ./smallsh
 
 
-thank you!
+thank you!!
